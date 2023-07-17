@@ -310,7 +310,7 @@ li {
     .mobile ul {
         background-color: var(--redwood);
         height: 3rem;
-        width: 50vh;
+        width: 100%;
         display: flex;
         justify-content: space-evenly;
         align-items: center;
