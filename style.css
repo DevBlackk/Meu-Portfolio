@@ -592,3 +592,17 @@ li {
     }
 
 }
+
+@media only screen and (width: 1024px) {
+    .text p {
+        width: 100vh;
+        font-size: 20px;
+    }
+}
+
+@media only screen and (width: 1280px) {
+    .text p {
+        width: 125vh;
+        font-size: 25px;
+    }
+}
